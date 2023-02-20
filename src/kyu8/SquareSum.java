@@ -9,4 +9,7 @@ public class SquareSum {
         }
         return result;
     }
+
+    //second solution
+    // return Arrays.stream(stops).map(i -> i * i).sum();
 }
